@@ -1,0 +1,7 @@
+* Other Resources
+** https://blog.rwhitedwarf.com/post/use_emacs_for_r/#how-to-use-r-in-ess
+** EMACS for Bioinformatics
+*** https://plantarum.ca/2020/06/16/emacs-tutorial-01/
+*** https://plantarum.ca/2020/06/17/emacs-tutorial-02/
+*** https://plantarum.ca/2020/12/30/emacs-tutorial-03/
+*** [[https://plantarum.ca/2021/10/03/emacs-tutorial-rmarkdown/][https://plantarum.ca/2021/10/03/emacs-tutorial-rmarkdown/]]
